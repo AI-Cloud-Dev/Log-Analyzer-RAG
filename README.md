@@ -1,6 +1,6 @@
 # 📄 Log Analyzer RAG (Minimal Retrieval-Augmented Generation Project)
 
-## 🚀 Overview
+## 🚀 Overview ##
 
 This project demonstrates a **simple, real-world inspired RAG (Retrieval-Augmented Generation) system**.
 
